@@ -29,7 +29,7 @@ To follow these hands-on exercises, ensure you have the following:
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Kubernetes-Hands-On.git
+   git clone https://github.com/ozayilmz/Kubernetes-Hands-On.git
    cd Kubernetes-Hands-On
    ```
 2. Navigate to the desired hands-on folder:
